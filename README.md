@@ -1,0 +1,1 @@
+The alx interview repository is designed to aid your technical interview preparation journey. Whether you are preparing for coding interviews at top tech companies or honing your problem-solving skills, this repository has something for you.
